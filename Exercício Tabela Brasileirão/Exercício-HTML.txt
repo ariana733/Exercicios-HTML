@@ -1,0 +1,10 @@
+Exercício HTML
+
+1) Inspirado em https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/
+recrie a tabela do Brasileirão Série A.
+
+2) Colocar os brasões dos times são opcionais
+
+3) As cores são opcionais.
+
+4) Desafio: Use da mesclagem de linhas para definir as zonas de libertadores, copa sul-americana e rebaixamento.
