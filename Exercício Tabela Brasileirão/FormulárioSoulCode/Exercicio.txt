@@ -1,0 +1,5 @@
+// Exercício
+// 1) Montar um formulário conforme o que está sendo mostrado na imagem.
+// 2) Ao final da página adicione uma tabela informando as formações oferecidas pela soulcode com custo, prazo, início, duração, horário de aula, Formato de aula, Idioma.
+
+// Para o logo usem https://soulcodeacademy.org/assets/images/logo/light-logo.png
